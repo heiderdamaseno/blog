@@ -9,7 +9,7 @@ Some Description
 3. Ja quebrei o negocio
 4. Fixei o Negocio
 
-## Front Page 
+## Some other tasks
 
 1. Open index.html in your browser. 
-
+2. Have fun
