@@ -4,7 +4,8 @@ Some Description
 
 ## Subheader 
 
-watch tutorial on youtube
-Follow step by Step
-Ja quebrei o negoco
+1. watch tutorial on youtube
+2. Follow step by Step
+3. Ja quebrei o negocio
+4. Fixei o Negocio
 
