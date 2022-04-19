@@ -4,5 +4,5 @@ Some Description
 
 ## Subheader 
 
-wathc tutorial on youtube
+watch tutorial on youtube
 
