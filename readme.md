@@ -9,3 +9,7 @@ Some Description
 3. Ja quebrei o negocio
 4. Fixei o Negocio
 
+## Front Page 
+
+1. Open index.html in your browser. 
+
